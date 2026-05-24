@@ -1,0 +1,9 @@
+{
+  "outputDirectory": "frontend",
+  "framework": null,
+  "buildCommand": null,
+  "installCommand": null,
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/frontend/$1" }
+  ]
+}
